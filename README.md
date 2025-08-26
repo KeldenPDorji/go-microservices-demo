@@ -2,7 +2,7 @@
 
 A demonstration of microservices architecture in Go, featuring service discovery with Consul and an API Gateway for request routing.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/KeldenPDorji/go-microservices-demo)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/KeldenPDorji/AS2025WEB303/blob/main/Practicals/Practical_2/README.md)
 
 ## Architecture
 
